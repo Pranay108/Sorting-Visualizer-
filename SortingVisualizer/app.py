@@ -2,9 +2,9 @@ import streamlit as st
 import random
 import time
 
-st.set_page_config(page_title="Sorting Visualizer", layout="wide")
+st.set_page_config(page_title="visualize-On-Web", layout="wide")
 
-st.title("Sorting Visualizer")
+st.title("visualize-On-Web')
 st.write("Visualize how different sorting algorithms work")
 
 st.sidebar.header("Settings")
